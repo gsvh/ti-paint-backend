@@ -11,12 +11,6 @@
     "eject": "react-scripts eject",
     "heroku-postbuild": "npm run build"
   },
-  "react-scripts": {
-    "develop": "strapi develop",
-    "start": "strapi start",
-    "build": "strapi build",
-    "strapi": "strapi"
-  },
   "devDependencies": {},
   "dependencies": {
     "@strapi/plugin-graphql": "4.1.5",
